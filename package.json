@@ -1,0 +1,16 @@
+{
+  "name": "myfirstnodeapp",
+  "version": "1.0.0",
+  "description": "echo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "echo.youn",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
